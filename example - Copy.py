@@ -2,6 +2,3 @@
 """
 showing GITHUB
 """
-
-add stuff. 
-it is amazing!!!
